@@ -1,0 +1,14 @@
+div{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    margin-top: 50px;
+    margin-right: 20px;
+    width: 90px;
+}
+
+#ur{
+    font-size: 150px;
+}
